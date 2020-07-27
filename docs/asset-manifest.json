@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.c6b21797.chunk.js",
-    "main.js.map": "/static/js/main.c6b21797.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f317071b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f317071b.js.map",
-    "static/js/2.e3703efb.chunk.js": "/static/js/2.e3703efb.chunk.js",
-    "static/js/2.e3703efb.chunk.js.map": "/static/js/2.e3703efb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f5e6800cb68a3fe2d43028afa33113f7.js": "/precache-manifest.f5e6800cb68a3fe2d43028afa33113f7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e3703efb.chunk.js.LICENSE.txt": "/static/js/2.e3703efb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/poc-bankia-wc-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/poc-bankia-wc-react/static/js/main.32b3409a.chunk.js",
+    "main.js.map": "/poc-bankia-wc-react/static/js/main.32b3409a.chunk.js.map",
+    "runtime-main.js": "/poc-bankia-wc-react/static/js/runtime-main.6fb4f9c0.js",
+    "runtime-main.js.map": "/poc-bankia-wc-react/static/js/runtime-main.6fb4f9c0.js.map",
+    "static/js/2.e3703efb.chunk.js": "/poc-bankia-wc-react/static/js/2.e3703efb.chunk.js",
+    "static/js/2.e3703efb.chunk.js.map": "/poc-bankia-wc-react/static/js/2.e3703efb.chunk.js.map",
+    "index.html": "/poc-bankia-wc-react/index.html",
+    "precache-manifest.d536e0a89d540f32c759c9f4a7d6203a.js": "/poc-bankia-wc-react/precache-manifest.d536e0a89d540f32c759c9f4a7d6203a.js",
+    "service-worker.js": "/poc-bankia-wc-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/poc-bankia-wc-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e3703efb.chunk.js.LICENSE.txt": "/poc-bankia-wc-react/static/js/2.e3703efb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/poc-bankia-wc-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f317071b.js",
+    "static/js/runtime-main.6fb4f9c0.js",
     "static/js/2.e3703efb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c6b21797.chunk.js"
+    "static/js/main.32b3409a.chunk.js"
   ]
 }
